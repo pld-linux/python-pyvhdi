@@ -16,7 +16,7 @@ Summary:	Python 2 bindings for libvhdi library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki libvhdi
 Name:		python-pyvhdi
 Version:	20221124
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://github.com/libyal/libvhdi/releases
